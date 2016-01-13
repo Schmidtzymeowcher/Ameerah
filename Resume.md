@@ -48,8 +48,8 @@
 
 ###EDUCATION
 **University of Massachusetts**|Amherst, MA 
-Focus in Anthropology and Political Science
+>B.A. in Anthropology and Political Science
 
 **University of Salamanca**|Salamanca, CL, Spain
-Focus in Medical Anthropology and International Political Economy
+>Focus in Medical Anthropology and International Political Economy
 
