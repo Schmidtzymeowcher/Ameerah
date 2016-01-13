@@ -47,8 +47,9 @@
 **Language Skills:** Fluent in Spanish. 
 
 ###EDUCATION
-**University of Massachusetts**               Amherst, MA                                                      Graduated: 2011 
+**University of Massachusetts**|Amherst, MA 
 Focus in Anthropology and Political Science
-**University of Salamanca**                 Salamanca, CL, Spain                                              
+
+**University of Salamanca**|Salamanca, CL, Spain
 Focus in Medical Anthropology, Ehtnomusicology and International Political Economy
 
