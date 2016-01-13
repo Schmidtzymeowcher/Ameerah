@@ -1,12 +1,13 @@
 
 
-#Ameerah Schmidt  
+#Ameerah Schmidt 
+
 *30 Brainard Avenue, Apartment #408*  
 *Medford, MA 02155* 
 *1+(413) 687-8137*
-*Email: Ameerah.Schmidt1@gmail.com*
-*Web: http://ameerah.hackartscience.com*
-
+>Email: Ameerah.Schmidt1@gmail.com
+>Web: http://ameerah.hackartscience.com
+------------------------
 
 
 ###**Professional Experience**
@@ -31,22 +32,22 @@
 * Responsible for monthly financial review & control activities on pre- and post-award issues including payment of invoices, initial account set-up, distribution of funds for sub awards, fabrication and child accounts, extensions, and closeouts. 
 * Responsible for reviewing and adjusting “Time and Effort” reports for all sponsored activities in order to ensure compliance. 
 
-**Administrative Assistant   **                                                                                    11/2012-02/2013 
+**Administrative Assistant**                           *11/2012-02/2013* 
 * Processed all procurement forms for Principal Investigators and their research groups, travel arrangements and visa requests, expense reports, and requests for payment. 
 * Coordinated weekly meeting events for members of the laboratory including space reservation and catering. 
 * Monitored and handled departmental keys to insure proper access to laboratory space and resources. 
 
 **Microsystems Technology Laboratories (MTL)**                                            
-Administrative Assistant                                          07/2012-10/2012
+**Administrative Assistant**                           *07/2012-10/2012*
 * Assisted Principal Investigators with the management and control of expenditure within established budgets and tracked financial records for 20 sponsored research accounts.  
 * Coordinated the purchase of equipment, as well as various materials to support ongoing research. 
 * Provided administrative support, processed travel arrangements, meetings and seminars. 
 
-**PROFILE **
+###PROFILE
 **Software Skills:** Microsoft Office; Concur, Coeus, SAP, OmniPlan.     
 **Language Skills:** Fluent in Spanish. 
 
-**EDUCATION **
+###EDUCATION
 University of Massachusetts               Amherst, MA                                                      Graduated: 2011 
 Focus in Anthropology and Political Science
 University of Salamanca                 Salamanca, CL, Spain                                              
