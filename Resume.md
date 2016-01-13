@@ -1,4 +1,7 @@
-
+---------------
+layout: default
+permalink: /resume/
+---------------
 
 #Ameerah Schmidt 
 *MIT Media Lab*
