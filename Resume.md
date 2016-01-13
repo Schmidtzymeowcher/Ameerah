@@ -43,7 +43,7 @@
 * Provided administrative support, processed travel arrangements, meetings and seminars. 
 
 ###PROFILE
-**Software Skills:** Microsoft Office; Concur, Coeus, SAP, OmniPlan.     
+**Software Skills:** Microsoft Office; Concur, Coeus, SAP, OmniPlan, Adobe Photoshop.     
 **Language Skills:** Fluent in Spanish. 
 
 ###EDUCATION
