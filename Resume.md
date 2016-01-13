@@ -1,6 +1,7 @@
 
 
 #Ameerah Schmidt 
+*MIT Media Lab*
 *20 Ames Street*  
 *Office E15-434*
 *Cambridge, MA 02139* 
@@ -48,8 +49,8 @@
 
 ###EDUCATION
 **University of Massachusetts**|Amherst, MA 
->B.A. in Anthropology and Political Science
+* B.A. in Anthropology and Political Science
 
 **University of Salamanca**|Salamanca, CL, Spain
->Focus in Medical Anthropology and International Political Economy
+* Focus in Medical Anthropology and International Political Economy
 
