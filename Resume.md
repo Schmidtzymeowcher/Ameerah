@@ -1,13 +1,11 @@
 
 
 #Ameerah Schmidt 
-
 *30 Brainard Avenue, Apartment #408*  
 *Medford, MA 02155* 
 *1+(413) 687-8137*
->Email: Ameerah.Schmidt1@gmail.com
->Web: http://ameerah.hackartscience.com
-------------------------
+*Email: Ameerah.Schmidt1@gmail.com|Web: http://ameerah.hackartscience.com*
+
 
 
 ###**Professional Experience**
