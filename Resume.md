@@ -1,10 +1,11 @@
 
 
 #Ameerah Schmidt 
-*30 Brainard Avenue, Apartment #408*  
-*Medford, MA 02155* 
-*1+(413) 687-8137*
-*Email: Ameerah.Schmidt1@gmail.com|Web: http://ameerah.hackartscience.com*
+*20 Ames Street*  
+*Office E15-434*
+*Cambridge, MA 02139* 
+*1+(617) 324-3785*
+*Email: ais_2012@mit.edu |Web: http://ameerah.hackartscience.com*
 
 
 
@@ -46,8 +47,8 @@
 **Language Skills:** Fluent in Spanish. 
 
 ###EDUCATION
-University of Massachusetts               Amherst, MA                                                      Graduated: 2011 
+**University of Massachusetts**               Amherst, MA                                                      Graduated: 2011 
 Focus in Anthropology and Political Science
-University of Salamanca                 Salamanca, CL, Spain                                              
+**University of Salamanca**                 Salamanca, CL, Spain                                              
 Focus in Medical Anthropology, Ehtnomusicology and International Political Economy
 
