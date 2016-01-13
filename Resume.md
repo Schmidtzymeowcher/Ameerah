@@ -51,5 +51,5 @@
 Focus in Anthropology and Political Science
 
 **University of Salamanca**|Salamanca, CL, Spain
-Focus in Medical Anthropology, Ehtnomusicology and International Political Economy
+Focus in Medical Anthropology and International Political Economy
 
