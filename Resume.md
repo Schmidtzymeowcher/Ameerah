@@ -47,6 +47,9 @@
 **Language Skills:** Fluent in Spanish. 
 
 ###EDUCATION
+**Harvard University** | Cambridge, MA
+Professional Certificate in Strategic Management
+
 **University of Massachusetts** | Amherst, MA 
 B.A. in Anthropology and Political Science
 
